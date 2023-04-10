@@ -1,4 +1,4 @@
-# AcademiaofGooglewoods
+# Academia of Googlewoods
 U101 Gamejam Project (Without Library)
 
 Dosya boyutu sıkıştırılmış haliyle 3gb olduğu için ve LFS düzgün çalışmadığı için dosyaları bu şekilde yüklemek durumunda kaldık.
