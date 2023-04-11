@@ -14,7 +14,7 @@ Kullanılan Yazılımlar:
 
 Kullanılan Assetler:
 
-- Karakter: 3rd Person Starter Kit
+- Karakter Animasyon ve Rig: 3rd Person Starter Kit
 - Duyuru Panosu: https://sketchfab.com/3d-models/medieval-notice-board-566a4332b57d4045a1cc4ffec77b4b8f
 - Map: https://assetstore.unity.com/packages/3d/environments/sun-temple-115417
 - Korsan Haritası Rulo: https://sketchfab.com/3d-models/pirates-map-fbefd2aeb8a1407e8abaedf0579fe3cc
